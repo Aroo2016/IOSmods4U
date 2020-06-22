@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+ Welcome to IOSmods4U REPO HomePage 
 
 You can use the [editor on GitHub](https://github.com/boswe23/IOSmods4U/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+IOSmods4U is my youtube channel name.
+Foldermario2 is my xbxo lol.
+ Support me with paypal.
 
-### Markdown
+ Ways to help keep the repo active:
+- Help me put more ++apps on there.
+- Also join my discord for support with jailbreak related stuff.
+- Help me with modifying the games and social media apps.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+My Site: https://boswe23.github.io/IOSmods4U/
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boswe23/IOSmods4U/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [IOSmods4U Discord for any help?]
